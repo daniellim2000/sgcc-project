@@ -1,1 +1,1 @@
-"# sgcc-project" 
+SGCC Project
